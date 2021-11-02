@@ -5,5 +5,6 @@ as of 11/1/21
 # Run
 https://shimanti-reviews.netlify.app
 
-# Source
-John Smilga & Free Code Camp
+# Inspiration
+Free Code Camp - John Smilga course
+https://www.youtube.com/watch?v=iZhV0bILFb0
