@@ -47,7 +47,7 @@ const reviews = [
     image:
       "https://pbs.twimg.com/profile_images/1452036123128057858/Px6jAJ69_400x400.jpg",
     text:
-      'Sam epitomizes strength of spirit. He lived in the CA woods making furniture then jumped into freelance software development, within months.  He "manifested" himself into a content-marketing Hashnode genius, the blogging space for tech people.  He inspires people in dire straits to overcome their obstacles.',
+      "Sam epitomizes 'strength of spirit'. He lived in the CA woods making furniture then jumped into freelance software development, within months.  He 'manifested' himself into a content-marketing Hashnode genius, the blogging space for tech people.  He inspires people in dire straits to overcome their obstacles.",
   },
 ];
 
