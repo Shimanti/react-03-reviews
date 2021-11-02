@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
-import reviews from './data';
+import reviews from './data2';
 import { FaChevronLeft, FaChevronRight, FaQuoteRight } from 'react-icons/fa';
 
 const Review = () => {
   const [index, setIndex] = useState(0)
-  const { name, job, image, text } = reviews[index]
+  const { name, twitter, job, image, text } = reviews[index]
 
   const checkNumber = (number) => {
     if (number > reviews.length - 1) {
@@ -37,7 +37,7 @@ const Review = () => {
     }
     setIndex(checkNumber(randomNumber))
   }
-  
+
 
   return (
     <article className="review">
@@ -47,7 +47,7 @@ const Review = () => {
           <FaQuoteRight />
         </span>
       </div>
-      <h4 className="author">{name}</h4>
+      <h4 className="author"><a href={twitter}>{name}</a></h4>
       <p className="job">{job}</p>
       <p className="info">{text}</p>
       <div className='button-container'>
