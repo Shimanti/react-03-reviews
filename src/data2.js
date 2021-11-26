@@ -35,7 +35,7 @@ const reviews = [
     twitter: 'https://twitter.com/oliverjumpertz',
     job: 'daily educator',
     image:
-      "https://pbs.twimg.com/profile_images/1453807500759863306/RxF0YQRr_400x400.jpg",
+      "https://pbs.twimg.com/profile_images/1458152201344495624/tW6dBUm6_400x400.jpg",
     text:
       'Oliver delivers content every day to learn software development.  He shares years of software engineering experience.  He builds skills with insightful snippets daily.',
   },
@@ -45,7 +45,7 @@ const reviews = [
     twitter: 'https://twitter.com/tanoaksam',
     job: 'goal inspirer',
     image:
-      "https://pbs.twimg.com/profile_images/1452036123128057858/Px6jAJ69_400x400.jpg",
+      "https://pbs.twimg.com/profile_images/1456094191734308868/Kfo7hLWC_400x400.png",
     text:
       "Sam epitomizes 'strength of spirit'. He lived in the CA woods making furniture then jumped into freelance software development, within months.  He 'manifested' himself into a content-marketing Hashnode genius, the blogging space for tech people.  He inspires people in dire straits to overcome their obstacles.",
   },
