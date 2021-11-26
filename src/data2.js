@@ -37,7 +37,7 @@ const reviews = [
     image:
       "https://pbs.twimg.com/profile_images/1458152201344495624/tW6dBUm6_400x400.jpg",
     text:
-      'Oliver delivers content every day to learn software development.  He shares years of software engineering experience.  He builds skills with insightful snippets daily.',
+      'Oliver delivers content every day to learn software development.  He shares years of software engineering experience.  He builds skills with insightful snippets daily in JavaScript and Web3.',
   },
   {
     id: 5,
