@@ -11,16 +11,6 @@ const reviews = [
   },
   {
     id: 2,
-    name: 'hiten shah',
-    twitter: 'https://twitter.com/hnshah',
-    job: 'NFT guru',
-    image:
-      "https://pbs.twimg.com/profile_images/1436236086057996288/B_j5wJE2_400x400.jpg",
-    text:
-      "Hiten corals the NFT crowd.  He loves new technology and seeing what can transpire.  Like Andrew, he educates a smorgasbord of founders.  Hiten advances the NFT community.  It’s a crazy space, but it’s not that crazy.",
-  },
-  {
-    id: 3,
     name: 'andrew gazdecki',
     twitter: 'https://twitter.com/agazdecki',
     job: 'inspires founders',
@@ -28,6 +18,16 @@ const reviews = [
       "https://pbs.twimg.com/profile_images/1407806352760602624/JMOyaoqE_400x400.jpg",
     text:
       'Andrew bolsters startups. He owns @microacquire which serves as a marketplace for moderately successful startups. He divulges excellent advice on growing a startup.  He draws seasoned founders on his threads.',
+  },
+ {
+    id: 3,
+    name: 'hiten shah',
+    twitter: 'https://twitter.com/hnshah',
+    job: 'NFT/SaaS guru',
+    image:
+      "https://pbs.twimg.com/profile_images/1436236086057996288/B_j5wJE2_400x400.jpg",
+    text:
+      "Hiten launched three SaaS companies. He arouses the NFT crowd to invent.  He loves new technology and seeing what can transpire.  Like Andrew, he educates a smorgasbord of founders.  Hiten advances the NFT community.  It’s a crazy space, but it’s not that crazy.",
   },
   {
     id: 4,
