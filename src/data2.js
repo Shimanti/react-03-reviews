@@ -5,7 +5,7 @@ const reviews = [
     twitter: 'https://twitter.com/DThompsonDev',
     job: 'motivator',
     image:
-      "https://pbs.twimg.com/profile_images/1420406130455588868/6Xw09aZG_400x400.jpg",
+      "https://pbs.twimg.com/profile_images/1465510980331479040/bv-n5rii_400x400.jpg",
     text:
       "Anyone who constantly encourages newbies deserves a medal of honor. Danny teaches coders how to navigate software development into a career.  He motivates and inspires.  Listen to his Twitter spaces to capture his energy.",
   },
