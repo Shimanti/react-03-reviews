@@ -5,7 +5,7 @@ const reviews = [
     twitter: 'https://twitter.com/DThompsonDev',
     job: 'motivator',
     image:
-      ""
+      "https://pbs.twimg.com/profile_images/1465510980331479040/bv-n5rii_400x400.jpg",
     text:
       "Anyone who constantly encourages newbies deserves a medal of honor. Danny teaches coders how to navigate software development into a career.  He motivates and inspires.  Listen to his Twitter spaces to capture his energy.",
   },
@@ -17,7 +17,7 @@ const reviews = [
     image:
       "https://pbs.twimg.com/profile_images/1407806352760602624/JMOyaoqE_400x400.jpg",
     text:
-      'Andrew bolsters startups. He owns @microacquire which serves as a marketplace for moderately successful startups. He divulges excellent advice on growing a startup.  He draws seasoned founders on his threads.',
+      'Andrew bolsters startups. He owns @microacquire which serves as a marketplace for successful startups. He divulges excellent advice on growing a startup.  He draws seasoned founders on his threads.',
   },
  {
     id: 3,
