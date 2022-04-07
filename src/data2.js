@@ -5,9 +5,9 @@ const reviews = [
     twitter: 'https://twitter.com/DThompsonDev',
     job: 'motivator',
     image:
-      "https://twitter.com/DThompsonDev/photo",
+      "../images/danny.jpg",
     text:
-      "Anyone who constantly encourages newbies deserves a medal of honor. Danny teaches coders how to navigate software development into a career.  He motivates and inspires.  Watch or listen to his videos to capture his energy.",
+      "Anyone who constantly encourages newbies deserves a medal of honor. Danny teaches coders how to navigate software development into a career.  He motivates and inspires.  Watch his videos to capture his energy.",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const reviews = [
     twitter: 'https://twitter.com/agazdecki',
     job: 'inspires founders',
     image:
-      "https://twitter.com/agazdecki/photo",
+      "../images/andrew.jpg",
     text:
       'Andrew bolsters startups. He owns @microacquire which serves as a marketplace for successful startups. He divulges excellent advice on growing a startup.  He draws seasoned founders on his threads.',
   },
@@ -25,9 +25,9 @@ const reviews = [
     twitter: 'https://twitter.com/hnshah',
     job: 'NFT/Crypto guru',
     image:
-      "https://twitter.com/hnshah/photo",
+      "../images/hiten.jpg",
     text:
-      "Hiten launched three SaaS companies. He arouses the NFT crowd to invent.  He loves new technology and seeing what can transpire.  Like Andrew, he educates a smorgasbord of founders.  Hiten advances the NFT/startup community.",
+      "Hiten launched three SaaS companies. He loves new technology and seeing what can transpire.  Like Andrew, he educates a smorgasbord of founders.  Hiten advances the NFT/startup community and inspires the next generation.",
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const reviews = [
     twitter: 'https://twitter.com/oliverjumpertz',
     job: 'daily educator',
     image:
-      "https://twitter.com/oliverjumpertz/photo",
+      "../images/oliver.jpg",
     text:
       'Oliver delivers everyday wisdom to learn software development.  He shares years of software engineering experience.  He builds skills with insightful snippets daily in JavaScript and Web3.',
   },
@@ -45,7 +45,7 @@ const reviews = [
     twitter: 'https://twitter.com/tanoaksam',
     job: 'goal inspirer',
     image:
-      "https://twitter.com/tanoaksam/photo",
+      "../images/sam.jpg",
     text:
       "Sam epitomizes 'strength of spirit'. He lived in the CA woods, worked as a carpenter, then jumped into freelance software development, within months.  He 'manifested' himself into a content-marketing genius.  He inspires people from all straits to overcome their obstacles.",
   },
